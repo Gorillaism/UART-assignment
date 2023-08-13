@@ -1,6 +1,6 @@
 <h1>GPIO and UART</h1>
  An application to controll the hardware on a STM32411xC.
-<br>e purpose
+<br>
  <h2>The porject is made up off these files:</h2>
     - main.c - Main file to execute all of our functions.<br>
     - my_stm32f4_gpio_driver.h - Define the designations and functions that will be called by the driver.<br>
